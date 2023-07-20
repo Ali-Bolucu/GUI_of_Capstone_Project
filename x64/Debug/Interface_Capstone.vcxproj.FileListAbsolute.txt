@@ -1,0 +1,10 @@
+C:\Users\ali60\Desktop\CODE\Interface_Capstone\Interface_Capstone\x64\Debug\Interface_Capstone.vcxproj.AssemblyReference.cache
+C:\Users\ali60\Desktop\CODE\Interface_Capstone\Interface_Capstone\x64\Debug\Interface_Capstone.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\ali60\Desktop\CODE\Interface_Capstone\Interface_Capstone\x64\Debug\Interface_Capstone.exe
+C:\Users\ali60\Desktop\CODE\Interface_Capstone\Interface_Capstone\x64\Debug\InterfaceCapstone.MyForm.resources
+C:\Users\ali60\Desktop\CODE\Interface_Capstone\Interface_Capstone\x64\Debug\Interface_Capstone.vcxproj.GenerateResource.cache
+C:\Users\ali60\Desktop\CODE\Interface_Capstone\x64\Debug\Interface_Capstone.vcxproj.AssemblyReference.cache
+C:\Users\ali60\Desktop\CODE\Interface_Capstone\x64\Debug\Interface_Capstone.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\ali60\Desktop\CODE\Interface_Capstone\x64\Debug\InterfaceCapstone.MyForm.resources
+C:\Users\ali60\Desktop\CODE\Interface_Capstone\x64\Debug\Interface_Capstone.vcxproj.GenerateResource.cache
+C:\Users\ali60\Desktop\CODE\Interface_Capstone\x64\Debug\Interface_Capstone.exe

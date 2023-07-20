@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+C:\Users\ali60\Desktop\CODE\Interface_Capstone\Interface_Capstone\MyForm.cpp(21,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  TCP_client.cpp
+C:\Users\ali60\Desktop\CODE\Interface_Capstone\Interface_Capstone\TCP_client.cpp(58,32): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\ali60\Desktop\CODE\Interface_Capstone\Interface_Capstone\TCP_client.cpp(99,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ali60\Desktop\CODE\Interface_Capstone\Interface_Capstone\TCP_client.cpp(138,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Interface_Capstone.vcxproj -> C:\Users\ali60\Desktop\CODE\Interface_Capstone\Interface_Capstone\x64\Release\Interface_Capstone.exe

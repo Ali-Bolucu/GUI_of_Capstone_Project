@@ -1,0 +1,5 @@
+﻿  TCP_client.cpp
+C:\Users\ali60\Desktop\CODE\Interface_Capstone\TCP_client.cpp(56,32): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\ali60\Desktop\CODE\Interface_Capstone\TCP_client.cpp(95): warning C4715: 'InterfaceCapstone::MyForm::TCP_Disconnect': not all control paths return a value
+  Helpers.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Interface_Capstone.vcxproj -> C:\Users\ali60\Desktop\CODE\Interface_Capstone\x64\Debug\Interface_Capstone.exe

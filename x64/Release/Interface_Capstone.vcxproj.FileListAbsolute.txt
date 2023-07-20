@@ -1,0 +1,5 @@
+C:\Users\ali60\Desktop\CODE\Interface_Capstone\Interface_Capstone\x64\Release\Interface_Capstone.vcxproj.AssemblyReference.cache
+C:\Users\ali60\Desktop\CODE\Interface_Capstone\Interface_Capstone\x64\Release\Interface_Capstone.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\ali60\Desktop\CODE\Interface_Capstone\Interface_Capstone\x64\Release\InterfaceCapstone.MyForm.resources
+C:\Users\ali60\Desktop\CODE\Interface_Capstone\Interface_Capstone\x64\Release\Interface_Capstone.vcxproj.GenerateResource.cache
+C:\Users\ali60\Desktop\CODE\Interface_Capstone\Interface_Capstone\x64\Release\Interface_Capstone.exe
